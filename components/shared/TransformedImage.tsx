@@ -29,7 +29,7 @@ const TransformedImage = ({ image, type, title, transformationConfig, isTransfor
           <button 
             className="download-btn" 
             onClick={downloadHandler}
-          >
+          >Download
             <Image 
               src="/assets/icons/download.svg"
               alt="Download"
