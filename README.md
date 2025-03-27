@@ -10,7 +10,8 @@
 
   <br />
     <a href="https://rang-sagar-dev.vercel.app/" target="_blank" > 
-  <h3 align="center">RangSagar - An AI based image editing SaaS Platform</h3>
+   RangSagar - An AI based image editing SaaS Platform
+   </a>
   <br />
 
 </div>
