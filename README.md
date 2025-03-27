@@ -1,7 +1,4 @@
 <div align="center">
-  <br />
-    <a href="https://rang-sagar-dev.vercel.app/" target="_blank" />
-  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
@@ -11,7 +8,10 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
+  <br />
+    <a href="https://rang-sagar-dev.vercel.app/" target="_blank" > 
   <h3 align="center">RangSagar - An AI based image editing SaaS Platform</h3>
+  <br />
 
 </div>
 
